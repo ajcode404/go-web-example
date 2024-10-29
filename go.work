@@ -2,6 +2,7 @@ go 1.21.3
 
 use (
 	./asset-and-files
+	./forms
 	./hello-world
 	./html-template
 	./http-server
