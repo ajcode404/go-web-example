@@ -1,8 +1,10 @@
 go 1.21.3
 
 use (
+	./asset-and-files
 	./hello-world
+	./html-template
 	./http-server
-	./routing-gorilla
 	./mysql-db
+	./routing-gorilla
 )
