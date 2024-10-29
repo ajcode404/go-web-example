@@ -6,6 +6,7 @@ use (
 	./hello-world
 	./html-template
 	./http-server
+	./middleware-basic
 	./mysql-db
 	./routing-gorilla
 )
